@@ -1,0 +1,35 @@
+﻿fabricname,fab_category,small,medium,large
+Cotton,Egyptian cotton,150,50,65
+Cotton,Upland cotton,78,80,20
+Cotton,Canvas,50,65,84
+Cotton,Corduroy,140,,
+Cotton,Flanel,75,89,78
+Cotton,Denim,80,,
+Cotton,Cambric,100,,
+Cotton,Poplin,125,,
+Chiffon,Chamleon chiffon,80,32,64
+Chiffon,Pearl chiffon,100,78,90
+Chiffon,Jacquard chiffon,90,87,73
+Linen,Venice linen,35,100,69
+Linen,Holland linen,70,76,35
+Linen,Cambric linen,55,98,76
+Crepe,Aerophane,87,65,19
+Crepe,Canton crepe,60,43,56
+Crepe,Crepeline,65,10,87
+Silk,Mulberry Silk,,,
+Silk ,Tussar Silk,,,
+Silk,Charmeuse Silk,,,
+Silk,Chiffon Silk,,,
+Silk,Crepe de Chine,,,
+Silk,Dupion Silk,,,
+Silk,Habotai Silk,,,
+Wool,Merino Wool,,,
+Wool,Cashmere Wool,,,
+Wool,Mohair Wool,,,
+Wool,Alpaca Wool,,,
+Wool,Camel Wool,,,
+Wool,Angora Wool,,,
+Wool,Virgin Wool,,,
+Wool,Vicuna Wool,,,
+Wool,Llama Wool,,,
+Wool,Qiviut Wool,,,

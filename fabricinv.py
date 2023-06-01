@@ -1,6 +1,6 @@
 from dash import Dash
 import plotly.express as px
-from dash import as dcc
+from dash import dcc
 from dash import html
 from dash.dependencies import Input, Output, State
 

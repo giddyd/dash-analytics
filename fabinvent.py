@@ -1,7 +1,7 @@
 import dash
 from dash import dcc
 from dash import html
-from dash_html_components.Label import Label
+from dcc.Label import Label
 from pandas.io.formats import style
 import plotly.express as px
 import pandas as pd

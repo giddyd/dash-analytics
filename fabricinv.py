@@ -7,6 +7,7 @@ from dash.dependencies import Input, Output, State
 import pandas as pd
 
 app = Dash(__name__)
+server=app.server
 
 df = pd.read_csv('fabrics.csv')
 
